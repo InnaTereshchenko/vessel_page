@@ -50,7 +50,7 @@
 }
 
 .photo0 {
-  background-image: url("/imgs/gf-0.jpg");
+  background-image: url("imgs/gf-0.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -64,7 +64,7 @@
 }
 
 .photo1 {
-  background-image: url("/imgs/gf-1.jpg");
+  background-image: url("imgs/gf-1.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -78,7 +78,7 @@
 }
 
 .photo2 {
-  background-image: url("/imgs/gf-2.jpg");
+  background-image: url("imgs/gf-2.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -92,7 +92,7 @@
 }
 
 .photo3 {
-  background-image: url("/imgs/gf-3.jpg");
+  background-image: url("imgs/gf-3.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -106,7 +106,7 @@
 }
 
 .photo4 {
-  background-image: url("/imgs/gf-4.jpg");
+  background-image: url("imgs/gf-4.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -120,7 +120,7 @@
 }
 
 .photo5 {
-  background-image: url("/imgs/gf-5.jpg");
+  background-image: url("imgs/gf-5.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -134,7 +134,7 @@
 }
 
 .photo6 {
-  background-image: url("/imgs/gf-6.jpg");
+  background-image: url("imgs/gf-6.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -148,7 +148,7 @@
 }
 
 .photo7 {
-  background-image: url("/imgs/gf-7.jpg");
+  background-image: url("imgs/gf-7.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -162,7 +162,7 @@
 }
 
 .photo8 {
-  background-image: url("/imgs/gf-8.jpg");
+  background-image: url("imgs/gf-8.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -176,7 +176,7 @@
 }
 
 .photo9 {
-  background-image: url("/imgs/gf-9.jpg");
+  background-image: url("imgs/gf-9.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -190,7 +190,7 @@
 }
 
 .photo10 {
-  background-image: url("/imgs/gf-10.jpg");
+  background-image: url("imgs/gf-10.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -204,7 +204,7 @@
 }
 
 .photo11 {
-  background-image: url("/imgs/gf-11.jpg");
+  background-image: url("imgs/gf-11.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -218,7 +218,7 @@
 }
 
 .photo12 {
-  background-image: url("/imgs/gf-12.jpg");
+  background-image: url("imgs/gf-12.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -232,7 +232,7 @@
 }
 
 .photo13 {
-  background-image: url("/imgs/gf-13.jpg");
+  background-image: url("imgs/gf-13.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -246,7 +246,7 @@
 }
 
 .photo14 {
-  background-image: url("/imgs/gf-14.jpg");
+  background-image: url("imgs/gf-14.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -260,7 +260,7 @@
 }
 
 .photo15 {
-  background-image: url("/imgs/gf-15.jpg");
+  background-image: url("imgs/gf-15.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -274,7 +274,7 @@
 }
 
 .photo16 {
-  background-image: url("/imgs/gf-16.jpg");
+  background-image: url("imgs/gf-16.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -288,7 +288,7 @@
 }
 
 .photo17 {
-  background-image: url("/imgs/gf-17.jpg");
+  background-image: url("imgs/gf-17.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -306,7 +306,7 @@
 }
 
 .top-img {
-  background-image: url("/imgs/vessel-g-0.png");
+  background-image: url("imgs/vessel-g-0.png");
   width: 100%;
   height: 349px;
   background-size: cover;
